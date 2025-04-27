@@ -33,26 +33,6 @@ Data:
 
     Government commodity prices CSV
 
-📁 Repository Structure
-
-text
-.
-├── data/
-│   ├── Crop_recommendation.csv       # Training data
-│   └── Current_Daily_Price_...csv    # Commodity prices
-├── model/
-│   └── baseline/
-│       └── baseline.hdf5             # Trained MLP weights
-├── utils/
-│   ├── pred_crop.py                  # Prediction + SHAP utilities
-│   └── pred_profit.py                # Profit simulation logic
-├── main.py                           # FastAPI app
-├── index.html                        # Frontend skeleton
-├── index.js                          # Frontend logic (AJAX, DOM updates)
-├── requirements.txt                  # Python dependencies
-├── profit_visualization.ipynb        # Jupyter notebook for profit plots
-└── README.md                         # ← you are here
-
 ⚙️ Getting Started
 Prerequisites
 
@@ -67,7 +47,7 @@ Installation
     Clone the repo
 
 text
-git clone https://github.com/your-username/crop-prediction.git
+git clone [https://github.com/shvm2/A-Dynamic-Crop-Prediction-and-Profit-Estimation-Web-Application-with-Real-Time-User-Input-Adaptation.git]
 cd crop-prediction
 
 Create & activate a virtual environment
@@ -166,8 +146,8 @@ This project is licensed under the MIT License. See LICENSE for details.
 
     Maintainer: Shivam
 
-    Email: shivam@example.com
+    Email: shivamsingh271104@gmail.com.com
 
-    GitHub: your-username
+    GitHub: shvm2
 
 Feel free to raise issues or feature requests-happy farming! 🌱
