@@ -47,7 +47,7 @@ Installation
     Clone the repo
 
 text
-git clone [https://github.com/shvm2/A-Dynamic-Crop-Prediction-and-Profit-Estimation-Web-Application-with-Real-Time-User-Input-Adaptation.git]
+git clone https://github.com/shvm2/A-Dynamic-Crop-Prediction-and-Profit-Estimation-Web-Application-with-Real-Time-User-Input-Adaptation.git
 cd crop-prediction
 
 Create & activate a virtual environment
